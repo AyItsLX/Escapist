@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 8c9127f86ccc535478674e80d8de919f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Edge
+    100002: Fences
+    100004: FourPillar
+    100006: House
+    100008: House1
+    100010: Market
+    100012: //RootNode
+    100014: Pillar
+    100016: Rock1
+    100018: Rock2
+    100020: Rock3
+    100022: Side
+    100024: Stone1
+    100026: Stone2
+    100028: Top
+    100030: Tree
+    100032: Camera
+    100034: Cube
+    100036: Light
+    100038: Ref
+    100040: Edge_Concrete
+    100042: Side_Concrete
+    100044: Tire
+    100046: Top_Concrete
+    100048: Concrete
+    100050: Rooftop
+    100052: Barricade
+    100054: DangerCone
+    400000: Edge
+    400002: Fences
+    400004: FourPillar
+    400006: House
+    400008: House1
+    400010: Market
+    400012: //RootNode
+    400014: Pillar
+    400016: Rock1
+    400018: Rock2
+    400020: Rock3
+    400022: Side
+    400024: Stone1
+    400026: Stone2
+    400028: Top
+    400030: Tree
+    400032: Camera
+    400034: Cube
+    400036: Light
+    400038: Ref
+    400040: Edge_Concrete
+    400042: Side_Concrete
+    400044: Tire
+    400046: Top_Concrete
+    400048: Concrete
+    400050: Rooftop
+    400052: Barricade
+    400054: DangerCone
+    2000000: Camera
+    2100000: Base_Texture
+    2100002: No Name
+    2300000: Edge
+    2300002: Fences
+    2300004: FourPillar
+    2300006: House
+    2300008: House1
+    2300010: Market
+    2300012: Pillar
+    2300014: Rock1
+    2300016: Rock2
+    2300018: Rock3
+    2300020: Side
+    2300022: Stone1
+    2300024: Stone2
+    2300026: Top
+    2300028: Tree
+    2300030: Cube
+    2300032: Ref
+    2300034: Edge_Concrete
+    2300036: Side_Concrete
+    2300038: Tire
+    2300040: Top_Concrete
+    2300042: Concrete
+    2300044: Rooftop
+    2300046: Barricade
+    2300048: DangerCone
+    3300000: Edge
+    3300002: Fences
+    3300004: FourPillar
+    3300006: House
+    3300008: House1
+    3300010: Market
+    3300012: Pillar
+    3300014: Rock1
+    3300016: Rock2
+    3300018: Rock3
+    3300020: Side
+    3300022: Stone1
+    3300024: Stone2
+    3300026: Top
+    3300028: Tree
+    3300030: Cube
+    3300032: Ref
+    3300034: Edge_Concrete
+    3300036: Side_Concrete
+    3300038: Tire
+    3300040: Top_Concrete
+    3300042: Concrete
+    3300044: Rooftop
+    3300046: Barricade
+    3300048: DangerCone
+    4300000: Side
+    4300002: Top
+    4300004: Edge
+    4300006: House
+    4300008: House1
+    4300010: FourPillar
+    4300012: Pillar
+    4300014: Market
+    4300016: Tree
+    4300018: Rock1
+    4300020: Rock2
+    4300022: Rock3
+    4300024: Stone1
+    4300026: Stone2
+    4300028: Fences
+    4300030: Cube
+    4300032: Ref
+    4300034: Tire
+    4300036: Side_Concrete
+    4300038: Top_Concrete
+    4300040: Edge_Concrete
+    4300042: Concrete
+    4300044: Rooftop
+    4300046: Barricade
+    4300048: DangerCone
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
